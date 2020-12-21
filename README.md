@@ -2,11 +2,10 @@
 CRUD operations on the user model.
 
 
-Required downloads: 
+Required downloads: pip install django
+                    pip install djangorestframework
 
-pip install django
-pip install djangorestframework
 
-Command for testing:
+Command for testing: python manage.py test
 
-python manage.py test
+
